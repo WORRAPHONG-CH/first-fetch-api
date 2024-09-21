@@ -25,6 +25,8 @@ function App() {
             <div className='bg-orange-500'>
               <p className='text-slate-800 text-bold p-5'>Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolor consequatur, rerum placeat perspiciatis ducimus doloremque asperiores pariatur ipsam dignissimos a est voluptatum unde fuga error magni nemo exercitationem? Unde, consectetur!</p>
             </div>
+
+            <button className='btn btn-warning w-full'>Click me</button>
             
           </div>
           
